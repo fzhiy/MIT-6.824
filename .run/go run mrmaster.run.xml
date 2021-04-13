@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go run mrmaster" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="6.824lab" />
+    <working_directory value="$PROJECT_DIR$/src/main" />
+    <go_parameters value="-i" />
+    <parameters value="pg-*.txt" />
+    <kind value="FILE" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/../6.824lab|$PROJECT_DIR$/src/main/mrmaster.go" />
+    <method v="2" />
+  </configuration>
+</component>
